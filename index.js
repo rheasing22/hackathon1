@@ -1,7 +1,7 @@
 var readlineSync = require("readline-sync");
 var chalk = require('chalk');
 function main() {
-    here1: do {
+    do {
         console.log("-------------------------");
         var options = [
             "Exit the Program",
